@@ -1,0 +1,91 @@
+Last login: Mon Feb 10 17:00:03 on ttys000
+WFs-MacBook-Pro:~ wf$ open .bashrc emacs
+The files /Users/wf/.bashrc and /Users/wf/emacs do not exist.
+WFs-MacBook-Pro:~ wf$ help open
+-bash: help: no help topics match `open'.  Try `help help' or `man -k open' or `info open'.
+WFs-MacBook-Pro:~ wf$ emacs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;; This buffer is for notes you don't want to save, and for Lisp evaluation.    
+;; If you want to create a file, visit that file with C-x C-f,                  
+;; then enter the text in that file's own buffer.
+
+class Board(object):
+    def __init__(self):
+        self.rows = [[0] * 3 for _ in range(3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-uuu:**-F1  *scratch*      All L7     (Python)----------------------------------
+
